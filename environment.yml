@@ -27,7 +27,7 @@ dependencies:
     - js2py==0.68
     - lxml==4.5.0
     - packaging==20.4
-    - pycryptodome==3.4.3
+    - pycryptodome=3.6.6
     - pyjsparser==2.7.1
     - pyparsing==2.4.7
     - pyqt5==5.11.2
