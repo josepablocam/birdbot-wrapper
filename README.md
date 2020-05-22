@@ -1,3 +1,9 @@
+This is copy (and slight modification) of the great https://nateskicks13.gitbook.io/bird-bot/ .
+All bird-bot credit goes to them. I just didn't feel comfortable putting in CC info,
+so a labmate suggested grepping log messages from the app, and just notifying when
+inventory came online (and completing purchase manually). So, this does that.
+
+
 
 I ran this on a mac (old OS 10.11 -- don't judge me), worked like a charm -- first day bought one.
 A labmate did as well, and similarly bought one the first day they ran it.
