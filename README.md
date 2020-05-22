@@ -3,6 +3,15 @@ I ran this on a mac (old OS 10.11 -- don't judge me), worked like a charm -- fir
 A labmate did as well, and similarly bought one the first day they ran it.
 We both noticed inventory seems to come online around early afternoon 1pm - 3pm.
 
+* Clone this repository
+
+
+```
+git clone git@github.com:josepablocam/birdbot-wrapper.git switch-bot
+cd switch-bot
+```
+
+
 * Install miniconda (https://docs.conda.io/en/latest/miniconda.html)
 * Install the switchbot environment
 
