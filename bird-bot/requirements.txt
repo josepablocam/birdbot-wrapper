@@ -1,6 +1,6 @@
 pyqt5==5.13.0
 js2py==0.68
-requests==2.23.0
+requests==2.31.0
 lxml==4.5.0
 darkdetect==0.1.1
 colorama==0.4.3
